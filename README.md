@@ -1,4 +1,4 @@
 # Best-RSS-Tool
 ```
-https://tidyread.ai/
+https://feedly.com/i
 ```
